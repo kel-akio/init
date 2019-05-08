@@ -1,0 +1,2 @@
+pidof sshd
+service ssh status | grep "Main PID" | cut -d "n" -f2

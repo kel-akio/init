@@ -1,0 +1,4 @@
+en ssh session :
+ssh NewUser@Debian --> password
+en graphical session :
+icone réseau --> utilisateurs --> changer d'utilisateur
